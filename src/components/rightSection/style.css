@@ -1,0 +1,33 @@
+.borderNone {
+    border: none;
+}
+.biography{
+    background-color: #25252d;
+    color:white;
+    padding: 1.2rem;
+}
+.popularity{
+    padding:1rem 0;
+}
+.popularity label{
+    color:white;
+    padding-right:5px;
+    font-size: 1.8rem;
+}
+.popularity input{
+    margin-top: 16px;
+    width:100%;
+}
+.name{
+    font-size: 2.2rem;
+    color: white;
+}
+
+.move-top {
+    position: relative;
+    top: -60px;
+}
+
+.popularity{
+    margin-left: 1rem;
+}

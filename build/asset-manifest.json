@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.791abc81.chunk.css",
+    "main.js": "/static/js/main.36c46ea3.chunk.js",
+    "main.js.map": "/static/js/main.36c46ea3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4db93636.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4db93636.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.b6e8abd5.chunk.js": "/static/js/2.b6e8abd5.chunk.js",
+    "static/js/2.b6e8abd5.chunk.js.map": "/static/js/2.b6e8abd5.chunk.js.map",
+    "static/js/3.0c9dc62f.chunk.js": "/static/js/3.0c9dc62f.chunk.js",
+    "static/js/3.0c9dc62f.chunk.js.map": "/static/js/3.0c9dc62f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.791abc81.chunk.css.map": "/static/css/main.791abc81.chunk.css.map",
+    "static/js/2.b6e8abd5.chunk.js.LICENSE.txt": "/static/js/2.b6e8abd5.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/header.1d382fd2.jpg",
+    "static/media/the-godfather.dc4cf68b.svg": "/static/media/the-godfather.dc4cf68b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db93636.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.b6e8abd5.chunk.js",
+    "static/css/main.791abc81.chunk.css",
+    "static/js/main.36c46ea3.chunk.js"
+  ]
+}

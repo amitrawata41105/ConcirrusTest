@@ -1,0 +1,22 @@
+.list{
+    width: 100%;
+    padding: 0;
+}
+.list div {
+    width: 100%;
+    color: white;
+    padding: 1rem 0;
+}
+
+.list .select{
+    background: #404146;
+}
+
+.leftSection{
+    background: #25252d96;
+    height:100vh;
+}
+
+.fontColor {
+    color:#3dc3e8
+}
